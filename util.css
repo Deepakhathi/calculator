@@ -1,0 +1,17 @@
+.text-center{
+  text-align: center;
+  background-color: gray;
+}
+.max-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+   background-color: gray;
+}
+.iteams-center{
+  align-items: center;
+}
